@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laharik352
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : laharik352@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Like travelling and playing with data
